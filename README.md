@@ -1,6 +1,6 @@
 # my-bashrc
 
-![The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/700px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
+![The Fighting Temeraire](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/960px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg)
 
 *"The Fighting Temeraire" (1839) by J.M.W. Turner — [Wikipedia](https://en.wikipedia.org/wiki/The_Fighting_Temeraire)*
 
